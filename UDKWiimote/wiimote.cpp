@@ -796,7 +796,7 @@ void wiimote::SetLEDs (BYTE led_bits)
 // ------------------------------------------------------------------------------------
 void wiimote::SetRumble (bool on)
 	{
-	_ASSERT(IsConnected());
+	//_ASSERT(IsConnected());
 	if(!IsConnected())
 		return;
 
