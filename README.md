@@ -9,4 +9,4 @@ It implements Sebastian O.H. Madgwick's IMU orientation filter to estimate the W
 
 The Visual C++ 2010 solution builds a DLL that can be used from UnrealScript through DLLBind.
 
-On the roadmap is adding 1-to-1 motion through OpenCV.
+I hope to continue working on this in December 2012.
